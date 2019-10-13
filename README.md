@@ -12,3 +12,5 @@ Measure Angles from images by marking 2 points and generating lines and finally 
 * 2 Additional modules imported.
 
 #### Instructions
+
+Note: The Script will only run in Windows
